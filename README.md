@@ -1,4 +1,4 @@
-#Problem Statement
+##Problem Statement
 To create a trustworthy bidding system and implement using blockchain technology where the user can either place an item for sale or they can bid on the existing items, and the result of the bid can be trusted by all and it cannot be tampered with.
 The item information along with description is stored on the blockchain. All the valid bids are also stored on the blockchain, thus the result of the bid can always be trusted to be true.
 
