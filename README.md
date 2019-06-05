@@ -43,7 +43,7 @@ There are five fields for each item:
 4. Post time
 5. Bidding Expiry Time
 
-#Fields for Bid
+## Fields for Bid
 There are five fields for each bid:
 1. Bidder ID
 2. Bidder Name
