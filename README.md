@@ -23,6 +23,8 @@ The seller can log onto the system, and place an item or commodity on sale. When
 The bidder can log onto the system, and view information about the various items posted. They can then proceed to make a bid on any of the item. The user information, along with the bid is then placed onto the blockchain. The user must bid for more value than the previous bid. Once the bidding period is over, the highest bidder wins, and the item is considered sold.
 Since the bidding information is stored on the blockchain, the result of the bid can be trusted. Thus, only the highest bidder wins.
 
+![Use Case Diagram](https://github.com/anonshail/Blockchain-Bidding-System/blob/master/resources/ucdiagram.png "")
+
 ## Role of client and types of transactions
 A user can either post an item for sale, or make a bid on existing items. Therefore, there are four defined transactions that the client can perform:
 1. Post an Item for Bidding – The client will post an item along with relevant information on the blockchain
@@ -50,3 +52,5 @@ There are five fields for each bid:
 3. Item ID
 4. Amount
 5. Timestamp
+
+![Schema Diagram](https://github.com/anonshail/Blockchain-Bidding-System/blob/master/resources/schema.png "")
